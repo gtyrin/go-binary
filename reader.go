@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"io"
 
-	e "github.com/gtyrin/go-error"
+	e "github.com/ytsiuryn/go-error"
 )
 
 // Reader хранит общие данные для универсального читателя потока с позиционированием.
